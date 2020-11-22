@@ -11,3 +11,7 @@
 ![](https://raw.githubusercontent.com/3dudu/xxks-app/main/unpackage/res/appstore_qr.png)
 
 [app store](https://apps.apple.com/us/app/天天题库学和练/id1484759791)
+
+
+![](https://raw.githubusercontent.com/3dudu/xxks-app/main/unpackage/res/1.webp)
+![](https://raw.githubusercontent.com/3dudu/xxks-app/main/unpackage/res/2.webp)
